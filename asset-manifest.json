@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-woolf-hw-04-feedback/static/css/main.ff879581.css",
+    "main.js": "/goit-react-woolf-hw-04-feedback/static/js/main.70f199b8.js",
+    "index.html": "/goit-react-woolf-hw-04-feedback/index.html",
+    "main.ff879581.css.map": "/goit-react-woolf-hw-04-feedback/static/css/main.ff879581.css.map",
+    "main.70f199b8.js.map": "/goit-react-woolf-hw-04-feedback/static/js/main.70f199b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff879581.css",
+    "static/js/main.70f199b8.js"
+  ]
+}
